@@ -1,2 +1,6 @@
-# Hello-World
-My first repository. Trying out how to create one.
+Hello humans,
+Welcome to my first repository.
+I am Edikan Ukpong.
+I love reading and writing.
+That's why I want to write codes too.
+Thank you.
